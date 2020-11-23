@@ -10,7 +10,7 @@ It accompanies the paper  "Fully abstract from Static to Gradual".
 - Coq: 8.11.1
 - Coq libraries
   * stdpp: dev.2020-04-03.1.eeef6250
-  * IRIS: dev.2020-04-07.7.64bed0ca
+  * Iris: dev.2020-04-07.7.64bed0ca
   * coq-autosubs: dev.coq86
 
 ### Getting started quickly with opam
